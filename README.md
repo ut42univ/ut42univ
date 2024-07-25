@@ -1,12 +1,13 @@
 ### Hi there 👋
+- 🔭 I’m currently study at Nagasaki University, Japan. 
+- 🌱 I’m currently learning Computer Science and UI/UX Design.
 
 <!--
 **ut42univ/ut42univ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently study at Nagasaki University, Japan. 
-- 🌱 I’m currently learning Computer Science and UI Design.
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...

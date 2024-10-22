@@ -1,19 +1,18 @@
-### Hi there 👋
-- 🔭 I’m currently study at Nagasaki University, Japan. 
-- 🌱 I’m currently learning Computer Science and UI/UX Design.
+# Introducing
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ut42univ&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+Hi👋 個人開発とデザインが大好きな大学生です！
 
-<!--
-**ut42univ/ut42univ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## My Skills
+### Frontend
 
-Here are some ideas to get you started:
+[![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,c,cs,py,php,swift,react,nextjs,django,flask,fastapi,nodejs,sass,tailwind,materialui,bootstrap,mysql,mongodb,postgres,sqlite,supabase,postman,figma,xd,pr,ae,ai,ps,blender,unity,git,github,githubactions,aws,gcp,vercel,bash,npm,yarn,bun,anaconda,opencv,latex,md,notion,vscode,apple,windows,ubuntu,linux&perline=10)](https://skillicons.dev)
 
+etc...
 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Summary
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ut42univ&theme=github)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ut42univ&theme=github)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ut42univ&theme=github)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ut42univ&theme=github)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ut42univ&theme=github&utcOffset=8)
+
